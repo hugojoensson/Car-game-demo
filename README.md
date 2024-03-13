@@ -16,3 +16,6 @@ Detta är mitt gymnasiearbete där jag har utvecklat ett spel som en del av min 
 1. Ladda ner spelet från GitHub-repositoriet.
 2. Extrahera filerna och kör .exe-filen Car_game.
 3. På startsidan tryck på play för att starta första nivån eller välj en nivå på level sidan.
+
+## Källkod
+Källkoden till spelet finns tillgänglig på GitHub-repositoriet: (https://github.com/hugojoensson/Speed-Surge-Code)
